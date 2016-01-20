@@ -3,7 +3,7 @@
 > [中文版](https://fakefish.github.io/react-webpack-cookbook/)
 
 ## 贡献 
-
+ 
 若书中有遗漏或者错误的地方，可以按照下面的方式：
 
 1. Fork 这个仓库
